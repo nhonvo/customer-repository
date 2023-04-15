@@ -1,6 +1,6 @@
 # Customer management
 
-This project is a <u>web API</u> for managing customer data. It is built using .NET Framework, C#, and follows the <u>Repository pattern</u> with a <u>Unit of Work</u> implementation for data access. **JWT authentication and authorization** have also been implemented to ensure secure access to the API.
+This project is a <u>web API</u> for managing customer data. It is built using .NET Framework, C#, and follows the _Repository pattern_ with a _Unit of Work_ implementation for data access. **JWT authentication and authorization** have also been implemented to ensure secure access to the API.
 
 ## Getting Started
 
